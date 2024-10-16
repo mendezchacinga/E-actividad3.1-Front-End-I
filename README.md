@@ -13,15 +13,15 @@ Backend
 En este repositorio, también se encuentran los archivos necesarios para el backend, que permiten procesar y almacenar la información ingresada en el formulario de contacto.
 
    # Requisitos # 
-# Construido con: # 
-## Figma - Utilizado para el prototipado web y diseño de la interfaz.
- ## Node.js - Framework de JavaScript para el backend.
- ##  MongoDB - Base de datos NoSQL utilizada para almacenar la información del formulario de contacto.
-## Webpack - Utilizado para empaquetar y minificar el código del frontend.
-# #Autor
-# #Gustavo Méndez - Desarrollador del proyecto.
-## Desarrollado para
-## Universidad Valle del Momboy
+# Construido con:  
+# Figma - Utilizado para el prototipado web y diseño de la interfaz.
+ # Node.js - Framework de JavaScript para el backend.
+ #  MongoDB - Base de datos NoSQL utilizada para almacenar la información del formulario de contacto.
+# Webpack - Utilizado para empaquetar y minificar el código del frontend.
+# Autor
+# Gustavo Méndez - Desarrollador del proyecto.
+# Desarrollado para
+# Universidad Valle del Momboy
 
 ## Proyecto desarrollado como parte del curso dirigido por el Prof. Ing. Yerson González.
 
@@ -44,6 +44,6 @@ Iniciar el servidor: Una vez instaladas las dependencias, inicie el servidor bac
 # bash
 Copiar código
 npm run start
-## Nota: No es necesario ejecutar el servidor para visualizar la página, solo es necesario si desea enviar datos a través del formulario de contacto.
+# Nota: No es necesario ejecutar el servidor para visualizar la página, solo es necesario si desea enviar datos a través del formulario de contacto.
 
-## Visualizar la página: Para ver el sitio web en su navegador, diríjase a la carpeta dist del proyecto y abra el archivo index.html.
+# Visualizar la página: Para ver el sitio web en su navegador, diríjase a la carpeta dist del proyecto y abra el archivo index.html.
